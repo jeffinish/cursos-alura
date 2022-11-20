@@ -1,0 +1,54 @@
+/* Aqui, como estamos tratrando de um identificador, utilizando # */
+#banner {
+  width: 100%; /* Altera a largura do banner para ser 100% da página. */
+}
+
+.principal {
+    background:#CCCCCC /* Altera o fundo de cada elemento */
+    padding:30px;  /* Adiciona espaçamento interno */
+}
+
+.titulo_principal {
+  padding-left: 20px; /* Adiciona espaçamento interno */
+}
+
+.titulo_centralizado {
+   text-align: center
+}
+
+p {
+    text-align:center; /* Altera o estilo de todo os parágrafos para ser alinhado ao centro */
+}
+
+/* Aqui, como estamos tratrando de um identificador, utilizando # */
+#missao{
+   font-size:20px
+}
+
+/* Aqui, estamos alterando para vermelho apenas as cores dos Strongs que estão dentro de em
+Com isso, apenas um dos strongs fica vermelho */
+em strong {
+  color:red /* Altera a cor da Tag Strong para vermelho */
+}
+
+/* Aqui, como estamos tratrando de uma classes, utilizando . */
+.itens {
+  font-style: italic;
+}
+
+.beneficios {
+  background: #FFFFFF;
+  padding: 20px; /* Adiciona espaçamento interno */
+}
+
+
+ul {
+  display: inline-block; /* Permite que o elemento quebre a linha antes, ou seja, que possa ser ajustado limites, margens e bordas. */
+  vertical-align: top; /* Alinha os elementos pelo topo. O padrão é alinhar por baixo. */
+  width: 20%;
+  margin-right: 15%;
+}
+
+.imagem_beneficios {
+  width: 50%;
+}

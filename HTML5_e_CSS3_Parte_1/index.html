@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br"> <!--Informa o idioma da página-->
+
+  <head> <!-- Informações da página -->
+    <meta charset="utf-8">  <!--Informa o charset pra ser utilizado-->
+    <title>Barbearia Alura</title> <!--Informa o título da página-->
+    <link rel="stylesheet" href="style.css"> <!-- Lê do arquivo style.css os estilos definidos lá -->
+
+    <!--
+    Aqui, aplicamos o css em todo os parágrafos pelo próprio html
+    <style >
+      p {
+          text-align:center Altera o estilo de todo os parágrafos para ser alinhado ao centro
+      }
+    </style> -->
+  </head>
+
+  <body> <!-- Conteúdo da página -->
+
+    <header class="titulo_principal">
+      <h1>Barbearia Alura</h1>
+    </header>
+    <!--
+      Aqui incluimos uma imagem externa onde src é uma abreviação de Source, comando que diz "Qual imagem vamos utilizar"
+      Para configurarmos seu css, utilizamos o identificador "Banner"
+    -->
+    <img id="banner" src="banner.jpg">
+
+    <div class="principal">
+      <!--
+        Aqui, estamos alterando o style apenas nesta tag h1 (CSS Inline)
+        <h1 style="text-align: center">Sobre a Barbearia Alura</h1>
+      -->
+
+      <h2 class="titulo_centralizado"> Sobre a Barbearia Alura </h2>
+
+      <p>Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia. </p>
+
+      <!--
+        style="font-size:20px" altera o tamanho da fonte para 20px e em tudo que está dentro do parágrafo
+        Porém, podemos incluir style dentro da arquivo style.css utilizando um identificador, neste caso o identificar "missao" e colocando as caracteristicas nele
+     -->
+      <p id="missao"><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
+
+      <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+    </div>
+
+    <div class="beneficios">
+
+      <h3 class="titulo_centralizado"> Benefícios </h3>
+
+      <!--
+        - A tag UL é a abreviação de Unordered list e serve para criar listar não enumeradas.
+        Para criar listas ordenadas, utiliza-se OL que vem de Ordered List.
+        - A tag LI vem de LIST ITEM e serve para marcar os items da lista
+      -->
+      <!--
+        - Aqui, vamos utilizar as CLASSES no CSS, que funcionam de maneira semelhante aos identificadores (ID), porém podem ser utilizados repetidadmente em vários itens. Assim, podemos personalizar apenas a classe de nosso interesse de maneira prática.
+      -->
+      <ul>
+        <li class="itens"> Atendimento aos clientes </li>
+        <li class="itens"> Espaço diferenciado </li>
+        <li class="itens"> Localização </li>
+        <li class="itens"> Profissinais qualificados </li>
+      </ul>
+      <img class="imagem_beneficios" src="beneficios.jpg">
+
+    </div>
+  </body>
+
+</html>
