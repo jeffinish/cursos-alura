@@ -1,0 +1,17 @@
+﻿CPF	TITULO	NOME	SOBRENOME	ENDERECO_1	ENDERECO_2	BAIRRO	CIDADE	ESTADO	CEP	DATA_DE_NASCIMENTO	IDADE	LIMITE_DE_CREDITO	VOLUME_DE_COMPRA	PRIMEIRA_COMPRA
+"1471156710"	"sra"	"Érica"	"Carvalho"	"      Rua 		iriquitia      "	""	"Jardins"	"São Paulo"	"SP"	"80012212"	01/09/1997	27	170000	24500	0
+"19290992743"	"Sr"	"Fernando"	"Cavalcante"	"r. 		Dois De 		Fevereiro"	""	"Água Santa"	"Rio de Janeiro"	"RJ"	"22000000"	12/02/2002	18	100000	20000	1
+"2600586709"	"Sr."	"César"	"Teixeira"	"     rua Conde De Bonfim     "	""	"Tijuca"	"Rio de Janeiro"	"RJ"	"22020001"	12/03/2002	18	120000	22000	0
+"3623344710"	"Sr."	"Marcos"	"Nougeuira"	"Av. pastor Martin luther King Junior"	""	"Inhauma"	"Rio de Janeiro"	"RJ"	"22002012"	13/01/1995	23	110000	22000	1
+"00388323245"	"Sr"	"José"	"Castro"	"      Rua 		Dos Imortais"	""	"Barra da Tijuca"	"Rio de Janeiro"	"RJ"	"22002020"	21/05/2003	16	85000,9	18500	1
+"492472718"	"Sr"	"Eduardo"	"Jorge"	"  Rua volta grande"	""	"Tijuca"	"Rio de Janeiro"	"RJ"	"22012002"	19/07/2003	23	75000	9500	1
+"50534475787"	"Sr"	"Abel"	"Silva"	"             Rua Humaitá"	""	"Humaitá"	"Rio de Janeiro"	"RJ"	"22000212"	11/09/1995	22	170000	26000	0
+"5576228758"	"Sra."	"Petra"	"Oliveira"	"  R. benício de		 abreu"	""	"Lapa"	"São Paulo"	"SP"	"88192029"	14/11/1995	22	70000	16000	1
+"5648641702"	"Sr."	"Paulo"	"César Mattos"	"  rua Hélio Beltrão"	""	"Tijuca"	"Rio de Janeiro"	"RJ"	"21002020"	30/08/1991	26	120000	22000	0
+"5840119709"	"Sr"	"Gabriel"	"Araujo"	"Rua 		Manuel De Oliveira"	""	"Santo Amaro"	"São Paulo"	"SP"	"80010221"	16/03/1985	32	140000	21000	1
+"7771579779"	"Sr"	"Marcelo"	"Mattos"	"R.		 eduardo Luís lopes"	""	"Brás"	"São Paulo"	"SP"	"88202912"	25/03/1992	25	120000	20000	1
+"8502682733"	"Sr"	"Valdeci"	"da Silva"	"r. srg. Édison 			De oliveira"	""	"Jardins"	"São Paulo"	"SP"	"82122020"	07/10/1998	22	110000	19000	0
+"8719655770"	"Sra."	"Carla"	"Ruiz"	"Av Gen. Guedes Da Fontoura"	""	"Jardins"	"São Paulo"	"SP"	"81192002"	20/12/2002	34	200000	24000	0
+"9283760794"	"Sr."	"Edson"	"Meilelles"	"Av. Pinto De Azevedo"	""	"Cidade Nova"	"Rio de Janeiro"	"RJ"	"22002002"	07/10/1995	22	150000	25000	1
+"94387575700"	"Sr"	"Walber"	"Lontra"	"R. Cel. almeida"	""	"Piedade"	"Rio de Janeiro"	"RJ"	"22000201"	30/01/1989	28	60000	12000	1
+"95939180787"	"Sr"	"Fábio"	"Carvalho"	"Rua Dos jacarandás da península"	""	"Barra da Tijuca"	"Rio de Janeiro"	"RJ"	"22002020"	05/01/1996	16	90000	18000	1

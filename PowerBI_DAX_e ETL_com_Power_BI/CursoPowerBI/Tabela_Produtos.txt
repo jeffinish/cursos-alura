@@ -1,0 +1,46 @@
+﻿Nome da Origem	CODIGO_DO_PRODUTO	NOME_DO_PRODUTO	EMBALAGEM	PRECO_DE_LISTA
+"Tabela_Produtos1.csv"	1000889	"Sabor da Montanha - 700 ml - Uva"	"Garrafa"	6,309
+"Tabela_Produtos1.csv"	1002334	"Linha Citros - 1 Litro - Lima/Limão"	"PET"	8
+"Tabela_Produtos1.csv"	1002767	"Videira do Campo - 700 ml - Cereja/Maça"	"Garrafa"	8,41
+"Tabela_Produtos1.csv"	1004327	"Videira do Campo - 1,5 Litros - Melância"	"PET"	19,51
+"Tabela_Produtos1.csv"	1013793	"Videira do Campo - 2 Litros - Cereja/Maça"	"PET"	24,01
+"Tabela_Produtos1.csv"	1022450	"Festival de Sabores - 2 Litros - Açai"	"PET"	38,012
+"Tabela_Produtos1.csv"	1037797	"Clean - 2 Litros - Laranja"	"PET"	16,008
+"Tabela_Produtos1.csv"	1040107	"Light - 350 ml - Melância"	"Lata"	4,555
+"Tabela_Produtos1.csv"	1041119	"Linha Citros - 700 ml - Lima/Limão"	"Garrafa"	4,904
+"Tabela_Produtos1.csv"	1078680	"Frescor do Verão - 470 ml - Manga"	"Garrafa"	5,1795
+"Tabela_Produtos1.csv"	1086543	"Linha Refrescante - 1 Litro - Manga"	"PET"	11,0105
+"Tabela_Produtos1.csv"	1096818	"Linha Refrescante - 700 ml - Manga"	"Garrafa"	7,7105
+"Tabela_Produtos1.csv"	1101035	"Linha Refrescante - 1 Litro - Morango/Limão"	"PET"	9,0105
+"Tabela_Produtos1.csv"	229900	"Pedaços de Frutas - 350 ml - Maça"	"Lata"	4,211
+"Tabela_Produtos1.csv"	231776	"Festival de Sabores - 700 ml - Açai"	"Garrafa"	13,312
+"Tabela_Produtos1.csv"	235653	"Frescor do Verão - 350 ml - Manga"	"Lata"	3,8595
+"Tabela_Produtos1.csv"	243083	"Festival de Sabores - 1,5 Litros - Maracujá"	"PET"	10,512
+"Tabela_Produtos1.csv"	290478	"Videira do Campo - 350 ml - Melância"	"Lata"	4,56
+"Tabela_Produtos2.csv"	3000001	"Sabor do mar - 700 ml - Manga"	"Garrafa"	9,25
+"Tabela_Produtos2.csv"	326779	"Linha Refrescante - 1,5 Litros - Manga"	"PET"	16,5105
+"Tabela_Produtos2.csv"	394479	"Sabor da Montanha - 700 ml - Cereja"	"Garrafa"	8,409
+"Tabela_Produtos2.csv"	4000001	"Sabor do Pantanal - 1 Litro - Melancia"	"PET"	4,76
+"Tabela_Produtos2.csv"	4000002	"Sabor do Pantanal - 1 Litro - Melancia"	"PET"	4,76
+"Tabela_Produtos2.csv"	4000003	"Sabor do Pantanal - 1 Litro - Melancia"	"PET"	4,76
+"Tabela_Produtos2.csv"	4000004	"Sabor do Pantanal - 1 Litro - Melancia"	"PET"	4,76
+"Tabela_Produtos2.csv"	479745	"Clean - 470 ml - Laranja"	"Garrafa"	3,768
+"Tabela_Produtos2.csv"	520380	"Pedaços de Frutas - 1 Litro - Maça"	"PET"	12,011
+"Tabela_Produtos2.csv"	695594	"Festival de Sabores - 1,5 Litros - Açai"	"PET"	28,512
+"Tabela_Produtos2.csv"	723457	"Festival de Sabores - 700 ml - Maracujá"	"Garrafa"	4,912
+"Tabela_Produtos2.csv"	746596	"Light - 1,5 Litros - Melância"	"PET"	19,505
+"Tabela_Produtos2.csv"	773912	"Clean - 1 Litro - Laranja"	"PET"	8,008
+"Tabela_Produtos2.csv"	783663	"Sabor da Montanha - 700 ml - Morango"	"Garrafa"	7,709
+"Tabela_Produtos2.csv"	788975	"Pedaços de Frutas - 1,5 Litros - Maça"	"PET"	18,011
+"Tabela_Produtos2.csv"	812829	"Clean - 350 ml - Laranja"	"Lata"	2,808
+"Tabela_Produtos2.csv"	826490	"Linha Refrescante - 700 ml - Morango/Limão"	"Garrafa"	6,3105
+"Tabela_Produtos2.csv"	838819	"Clean - 1,5 Litros - Laranja"	"PET"	12,008
+"Tabela_Produtos3.csv"	695594	"Festival de Sabores - 1,5 Litros - Açai"	"PET"	28,512
+"Tabela_Produtos3.csv"	723457	"Festival de Sabores - 700 ml - Maracujá"	"Garrafa"	4,912
+"Tabela_Produtos3.csv"	746596	"Light - 1,5 Litros - Melância"	"PET"	19,505
+"Tabela_Produtos3.csv"	773912	"Clean - 1 Litro - Laranja"	"PET"	8,008
+"Tabela_Produtos3.csv"	783663	"Sabor da Montanha - 700 ml - Morango"	"Garrafa"	7,709
+"Tabela_Produtos3.csv"	788975	"Pedaços de Frutas - 1,5 Litros - Maça"	"PET"	18,011
+"Tabela_Produtos3.csv"	812829	"Clean - 350 ml - Laranja"	"Lata"	2,808
+"Tabela_Produtos3.csv"	826490	"Linha Refrescante - 700 ml - Morango/Limão"	"Garrafa"	6,3105
+"Tabela_Produtos3.csv"	838819	"Clean - 1,5 Litros - Laranja"	"PET"	12,008

@@ -1,0 +1,5 @@
+﻿MATRICULA	NOME	PERCENTUAL_COMISSAO	DATA_ADMISSAO	DE_FERIAS	BAIRRO
+"235"	"Márcio Almeida Silva"	0,08	2014-08-15 00:00:00,000	0	"Tijuca"
+"236"	"Cláudia Menezes"	0,08	2013-09-17 00:00:00,000	1	"Jardins"
+"237"	"Roberta Martins"	0,11	2017-03-18 00:00:00,000	1	"Copacabana"
+"238"	"Pericles Alves"	0,11	2016-08-21 00:00:00,000	0	"Santo Amaro"
